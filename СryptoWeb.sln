@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СryptoWeb", "СryptoWeb\СryptoWeb.csproj", "{727233C5-6625-4EEE-83DD-A62B1199BB06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "СryptoWeb.Tests", "СryptoWeb.Tests\СryptoWeb.Tests.csproj", "{1C957872-7CC2-4552-9DA8-BF76953804E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{727233C5-6625-4EEE-83DD-A62B1199BB06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727233C5-6625-4EEE-83DD-A62B1199BB06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727233C5-6625-4EEE-83DD-A62B1199BB06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727233C5-6625-4EEE-83DD-A62B1199BB06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C957872-7CC2-4552-9DA8-BF76953804E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C957872-7CC2-4552-9DA8-BF76953804E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C957872-7CC2-4552-9DA8-BF76953804E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C957872-7CC2-4552-9DA8-BF76953804E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA1CDB8A-CE9A-43F0-9242-D68CA649BACB}
+	EndGlobalSection
+EndGlobal
